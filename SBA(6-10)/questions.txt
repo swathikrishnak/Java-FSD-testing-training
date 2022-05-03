@@ -1,0 +1,5 @@
+1) Sba-6: Implement entire spring ORM functionality.
+2) sba-7: Implement entire spring MVC funcationality.
+3) sba-8- Implement entire spring MVCORM functionality.
+4) sba-9: Implement entire spring datajpa functionality.
+5) sba-10: Implement entire microservices funcationality.
